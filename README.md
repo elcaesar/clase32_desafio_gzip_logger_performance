@@ -1,16 +1,16 @@
 ## Desafío: clase 32: Loggers, Gzip y análisis de performance
 #### Como ejecutar el programa en su computadora:
 
-Ejecutar "npm install" para instalar las dependecias.
+Ejecutar `npm install` para instalar las dependecias.
 
-En archivo .env se define la conexion a MongoDB Atlas y se almacena como ejemplo
-en la base de datos llamado 'serverprocess' la info del sistema
+En archivo `.env` se define la conexion a MongoDB Atlas y se almacena como ejemplo
+en la base de datos llamado `serverprocess` la info del sistema
 
-Ejecutar "npm start" para iniciar el server.
+Ejecutar `npm start` para iniciar el server.
 
 #### Consignas del desafío y las respuestas
 
-* Sobre la ruta /info del proyecto que venimos viendo se comparó la carga de la página con compresión gzip y sin ella
+* Sobre la ruta `/info` del proyecto que venimos viendo se comparó la carga de la página con compresión gzip y sin ella
 
 -- Sin compresión:
 [![no-compress.jpg](https://i.postimg.cc/FzVxmD6C/no-compress.jpg)](https://postimg.cc/gLrhHqm3)
