@@ -20,7 +20,8 @@ Ejecutar `npm start` para iniciar el server.
 
 
 * A continuación se utilizó la librería log4js
--- Se ingresó a las rutas existentes '/' , '/info' , '/api/randoms?cant=2000'
+
+-- Se ingresó a las rutas existentes `/` , `/info` , `/api/randoms?cant=2000`
 -- Se ingresó a path inexsistentes para mostrar los logs (se agregó página 404)
 
 [![logs.jpg](https://i.postimg.cc/4x3NBxRH/logs.jpg)](https://postimg.cc/SJwhKqsm)
